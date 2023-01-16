@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/hesenov_007" target="blank"><img src="https://img.shields.io/twitter/follow/hesenov_007?logo=twitter&style=for-the-badge" alt="hesenov_007" /></a> </p>
 
-- 🔭 I’m currently working on **StartUP**
+- 🔭 I’m currently working on **Website and Mobile App for Tranding project**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **React,JavaScript**
+- 💬 Ask me about **ReactJS,JavaScript**
 
 - 📫 How to reach me **arifhesenv@gmail.com**
 
