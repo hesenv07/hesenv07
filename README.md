@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arif Hasanov</h1>
-<h3 align="center">A  frontend developer from Azerbaijan</h3>
+<h3 align="center">A  React and React Native  developer</h3>
 <img align="right" alt="code"  src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" witdh="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hesenv07&label=Profile%20views&color=0e75b6&style=flat" alt="hesenv07" /> </p>
 
